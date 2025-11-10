@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm **Dániel Gábor Homán**
+# Hi there! 👋 I'm **Dániel Homán**
 
 ### 🎯 Professional Summary
 
