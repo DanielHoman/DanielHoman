@@ -31,7 +31,10 @@ The following technologies represent my current development focus and learning d
 
 These projects were built as part of my structured Flutter learning journey, showcasing key Flutter concepts in practice:
 
-* **Favorite Places App (WIP):** Camera + GPS integration (native features), **local SQLite database**, and **Riverpod** state management.
+* **Knight Duel (Web Demo Available):** A self-developed, turn-based strategy board game demonstrating complex **Game Logic / State Machines** (using Riverpod), **Responsive UI** for various screen sizes, multi-language **Localization**, and basic **AI Development**. Demo Link: [danielhoman.github.io/knight_duel](https://danielhoman.github.io/knight_duel/)
+
+* **Real-Time Chat Application:** Focus on **real-time backend integration** using **Firebase (Firestore, Auth, FCM)**. Mastered asynchronous data handling via **Riverpod StreamProvider** and implemented **Push Notifications**.
+* **Favorite Places App:** Camera + GPS integration (native features), **local SQLite database**, and **Riverpod** state management.
 * **Meals App:** Complex **multi-screen navigation** (Drawer / Tabs) and **app-wide state management** using Riverpod.
 * **Shopping List App:** **HTTP CRUD operations**, JSON serialization, and **asynchronous data handling** with backend communication.
 * **Expense Tracker:** **Responsive UI** for portrait/landscape modes with **chart-based data visualization**.
@@ -40,8 +43,9 @@ These projects were built as part of my structured Flutter learning journey, sho
 
 ### 🎮 Logical & Problem-Solving Skills
 
-My games made with **Godot Engine** demonstrate strong logical thinking and algorithmic experimentation:
+My games made with **Godot Engine** and **Flutter** demonstrate strong logical thinking and algorithmic experimentation:
 
+* **Knight Duel (Flutter/Dart):** Complex implementation of a **turn-based game logic** with a two-phase strategic flow and basic **score-based AI opponent**.
 * **BattleLeap (WIP):** Tactical 2D platformer with local **2–4 player multiplayer** and complex game state handling.
 * **Sudoku:** Classic logic game with **algorithmic puzzle generation** and error highlighting.
 * **Minesweeper:** Classic logic game with randomized board generation.
