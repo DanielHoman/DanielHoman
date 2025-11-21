@@ -33,10 +33,8 @@ These projects were built as part of my structured Flutter learning journey, sho
 
 * **Knight Duel (Web Demo Available):** A self-developed, turn-based strategy board game demonstrating complex **Game Logic / State Machines** (using Riverpod), **Responsive UI** for various screen sizes, multi-language **Localization**, and basic **AI Development**. Demo Link: [danielhoman.github.io/knight_duel](https://danielhoman.github.io/knight_duel/)
 
-* **Real-Time Chat Application:** Focus on **real-time backend integration** using **Firebase (Firestore, Auth, FCM)**. Mastered asynchronous data handling via **Riverpod StreamProvider** and implemented **Push Notifications**.
 * **Favorite Places App:** Camera + GPS integration (native features), **local SQLite database**, and **Riverpod** state management.
 * **Meals App:** Complex **multi-screen navigation** (Drawer / Tabs) and **app-wide state management** using Riverpod.
-* **Shopping List App:** **HTTP CRUD operations**, JSON serialization, and **asynchronous data handling** with backend communication.
 * **Expense Tracker:** **Responsive UI** for portrait/landscape modes with **chart-based data visualization**.
 
 ---
